@@ -1,0 +1,3 @@
+[submodule "Project/NeuralNetwork-Visualization"]
+	path = Project/NeuralNetwork-Visualization
+	url = https://github.com/FRANK-RAN/NeuralNetwork-Visualization.git
